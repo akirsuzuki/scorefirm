@@ -1115,33 +1115,72 @@ section.lazy-placeholder:after {
 .cid-rZ5SrbYBci H3 {
   text-align: left;
 }
-.cid-rZ5Rkp0yYH {
-  padding-top: 60px;
-  padding-bottom: 15px;
+.cid-rZbQahZElH {
+  padding-top: 0px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rZ5Rkp0yYH .mbr-section-subtitle {
+.cid-rZbQahZElH .mbr-section-subtitle {
   color: #767676;
+  font-weight: 300;
 }
-.cid-rZ33HVpVI4 {
-  padding-top: 15px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rZ33HVpVI4 h4 {
-  font-weight: 500;
+.cid-rZbQahZElH .mbr-content-text {
+  color: #767676;
   margin-bottom: 0;
-  text-align: left;
 }
-.cid-rZ33HVpVI4 p {
-  color: #767676;
-  text-align: left;
+.cid-rZbQahZElH .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
 }
-.cid-rZ33HVpVI4 .card-box {
-  padding-top: 2rem;
+.cid-rZbQahZElH .img-text {
+  width: 56px;
+  height: 56px;
+  font-size: 28px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
 }
-.cid-rZ33HVpVI4 .card-wrapper {
-  height: 100%;
+@media (max-width: 991px) {
+  .cid-rZbQahZElH .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-rZbQahZElH .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rZbQahZElH .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rZbQahZElH .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rZbQahZElH .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rZbQahZElH .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rZbQahZElH .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .cid-rZ05lCK6Bp {
   padding-top: 0px;
@@ -1150,6 +1189,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZ05lCK6Bp .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rZ05lCK6Bp h4 {
   text-align: center;
