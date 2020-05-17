@@ -871,7 +871,7 @@
                 "active": false
               },
               {
-                "tags": "借入管理",
+                "tags": "決算管理",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -884,7 +884,7 @@
                 "active": false
               },
               {
-                "tags": "TopicBoard",
+                "tags": "借入管理",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -894,7 +894,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "借入の一覧",
-                "active": true
+                "active": false
               },
               {
                 "tags": "借入管理",
@@ -910,7 +910,7 @@
                 "active": false
               },
               {
-                "tags": "顧客一覧",
+                "tags": "TopicBoard",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -936,7 +936,7 @@
                 "active": false
               },
               {
-                "tags": "戦略立案",
+                "tags": "クライアント管理",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -946,7 +946,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "顧客一覧",
-                "active": false
+                "active": true
               }
             ]
           }
