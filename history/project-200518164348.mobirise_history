@@ -51,7 +51,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -849,8 +851,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1096.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1096-800x438.png",
+                "image": "@PROJECT_PATH@/assets/images/%E6%B1%BA%E7%AE%97%E6%8E%A8%E7%A7%BB-2000x1096.png",
+                "thumb": "@PROJECT_PATH@/assets/images/-2000x1096-800x438.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -862,7 +864,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/f-1451x802.png",
+                "image": "@PROJECT_PATH@/assets/images/f%E6%8E%A8%E7%A7%BB%E3%82%B0%E3%83%A9%E3%83%95-1451x802.png",
                 "thumb": "@PROJECT_PATH@/assets/images/f-1451x802-800x442.png",
                 "alt": "",
                 "title": "推移グラフ",
@@ -875,8 +877,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1102.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1102-800x441.png",
+                "image": "@PROJECT_PATH@/assets/images/%E6%B1%BA%E7%AE%97%E3%81%AE%E8%A9%95%E4%BE%A1-2000x1102.png",
+                "thumb": "@PROJECT_PATH@/assets/images/-2000x1102-800x441.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -888,8 +890,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1101.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1101-800x440.png",
+                "image": "@PROJECT_PATH@/assets/images/%E5%80%9F%E5%85%A5%E3%81%AE%E4%B8%80%E8%A6%A7-2000x1101.png",
+                "thumb": "@PROJECT_PATH@/assets/images/-2000x1101-800x440.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -901,8 +903,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1106.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1106-800x442.png",
+                "image": "@PROJECT_PATH@/assets/images/%E5%80%9F%E5%85%A5%E3%82%B7%E3%82%A7%E3%82%A2%E6%8E%A8%E7%A7%BB-2000x1106.png",
+                "thumb": "@PROJECT_PATH@/assets/images/-2000x1106-800x442.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -923,17 +925,17 @@
                 "active": false
               },
               {
-                "tags": "戦略",
+                "tags": "TopicBoard",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/swot-1-1456x899.png",
-                "thumb": "@PROJECT_PATH@/assets/images/swot-1-1456x899-800x494.png",
+                "image": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise4/components/_images/background7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background7-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "戦略立案",
-                "active": true
+                "active": false
               },
               {
                 "tags": "クライアント管理",
@@ -946,7 +948,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "顧客一覧",
-                "active": false
+                "active": true
               }
             ]
           }
