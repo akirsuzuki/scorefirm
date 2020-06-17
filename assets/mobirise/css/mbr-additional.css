@@ -1427,6 +1427,14 @@ section.lazy-placeholder:after {
     padding-bottom: 1.5rem;
   }
 }
+.cid-s2dcxEsJ0r {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
+}
+.cid-s2dcxEsJ0r P {
+  color: #767676;
+}
 .cid-rZ5VmjetUM {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1507,6 +1515,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rZ5VmjetUM .head-item {
+  text-align: left;
+}
+.cid-rZ5VmjetUM .body-item {
   text-align: left;
 }
 .cid-rZWDErxBFz {
