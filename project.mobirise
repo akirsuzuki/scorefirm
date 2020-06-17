@@ -1223,10 +1223,10 @@
               }
             },
             ".head-item": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".body-item": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "table1",
